@@ -1,7 +1,7 @@
 ## Hi there I'm Carlos Luna 👋
 
 # 💫 About Me:
-<br>🌱 I’m currently studying to become a software engineer at University of Colima, also I'm working as a mobile developer in Freewaymx<br>🔭 I love to learn new things, that's why I'm currently learning Jest, Redux and improving my React skills<br>👯 I’m looking forward to collaborate on new projects <br>💬 I'm not an expert but I would be glad to help anyone who need it<br>⚡ I use my free time to play videogames and create new projects
+<br>Im currently working as frontend developer, I graduated last year from collegue and my current focus is on web development<br>🔭 I love to learn new things, that's why I'm currently learning Jest, Playrwright and improving my React skills<br>👯 I’m looking forward to collaborate on new projects <br>💬 I'm not an expert but I would be glad to help anyone who need it<br>⚡ I use my free time to play videogames and create new projects
 
 
 # 💻 Tech Stack:
